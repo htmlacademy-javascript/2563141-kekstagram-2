@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Владислав Пеньзяков](https://up.htmlacademy.ru/javascript-individual/2/user/2563141).
-* Наставник: `Неизвестно`.
+* Наставник: [Артём Картавый](https://htmlacademy.ru/profile/artem_k)..
 
 ---
 
